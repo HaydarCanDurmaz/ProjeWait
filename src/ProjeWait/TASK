@@ -1,0 +1,19 @@
+Task 1:
+http://seleniumpractise.blogspot.com/2016/08/how-to-use-explicit-wait-in-selenium.html
+click mw to start timer butonuna tiklatınız
+wait kullanarak Selenium , QTP ve WebDriver yazılarını görülene kadar bekletiniz
+Webdriver da görülüyormu diye kontrol ediniz
+
+
+Task 2:
+https://qatest.twoplugs.com/ sitesine gidiniz
+What do ı need to sing up? sorusuna tıklatınız
+" you need a facebook account or a valid e mail address  to sing up "
+text ini görüp dogrulatınız
+
+
+Task 3:
+https://google.com/ sitesine gidiniz
+searc kısmına selenium yazdırıp gönderiniz ve ENTER layınız
+Element tıklatılabilir olana kada-r bekletiniz
+Sonucla kısmına ilk sonucun Selenium içerdigini kontrol edinizzzz
